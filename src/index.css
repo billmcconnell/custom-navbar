@@ -8,11 +8,22 @@
   margin: 0;
   font-family: "Quicksand";
   color: #333;
+  text-decoration: none;
 }
 .content {
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
 }
+
+.nav-link{
+  text-decoration: none;
+}
+
+.nav-item{
+  text-decoration: none
+}
+
+
 
 
